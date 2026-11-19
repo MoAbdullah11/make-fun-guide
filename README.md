@@ -1,8 +1,8 @@
 # Getting started with make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/moabdullah/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/moabdullah/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/MoAbdullah11/make-fun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/MoAbdullah11/make-fun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 **make.fun is a bounty board where you and your AI coding agent build things for cash prizes.**
 Every bounty is a small competition: a task, a deadline, and a reward in USDC that is locked in an
